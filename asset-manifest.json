@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AleksandrGrechanik/chucknorris-app2/static/css/main.d6ea1eff.css",
+    "main.js": "/AleksandrGrechanik/chucknorris-app2/static/js/main.ff4063a3.js",
+    "static/js/787.af4ada27.chunk.js": "/AleksandrGrechanik/chucknorris-app2/static/js/787.af4ada27.chunk.js",
+    "index.html": "/AleksandrGrechanik/chucknorris-app2/index.html",
+    "main.d6ea1eff.css.map": "/AleksandrGrechanik/chucknorris-app2/static/css/main.d6ea1eff.css.map",
+    "main.ff4063a3.js.map": "/AleksandrGrechanik/chucknorris-app2/static/js/main.ff4063a3.js.map",
+    "787.af4ada27.chunk.js.map": "/AleksandrGrechanik/chucknorris-app2/static/js/787.af4ada27.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6ea1eff.css",
+    "static/js/main.ff4063a3.js"
+  ]
+}
